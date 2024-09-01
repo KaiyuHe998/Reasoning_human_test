@@ -31,6 +31,7 @@ csv: **human_test.csv**
 ```
 python human_test.py
 ```
+**(run pip install -r requirements.txt if package needed is not installed)**
 
 ## Step2 Zip/download and send me the files
 Run the following code to zip the log
