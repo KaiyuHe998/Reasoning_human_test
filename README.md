@@ -1,6 +1,6 @@
 # If you already have conda on your laptop.
 
-## Setup environment
+## Step1: Setup environment
 ```
 conda create --name test_env python=3.9
 conda activate test_env
@@ -9,7 +9,7 @@ cd Reasoning_human_test
 pip install -r requirements.txt
 ```
 
-## Run the human_test.py
+## Step2: Run the human_test.py
 ```
 python human_test.py
 ```
@@ -17,9 +17,21 @@ When finished please save and send me the following files:
 Folder: **log_human_test**  
 csv: **human_test.csv**
 
-# If you do not have conda on your device then you need to use binder Recommand： https://mybinder.org
-In the website
+# If you do not have conda on your device then you need to use binder **Recommand**： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD)
+## Step1 Finish puzzles
+- Click **terminal** in the new window and execute the following code to run the puzzles
+```
+python human_test.py
+```
 
+## Step2 Zip and download files
+Run the following code to zip the log
+```
+  tar -czvf log_human_test.tar.gz log_human_test
+```
+Download the following files and send them to me
+- zip_file: **log_human_test.tar.gz**
+- csv_file: **human_test.csv**
 
 
 # Or use Colab 
