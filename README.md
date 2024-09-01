@@ -26,6 +26,7 @@ import shutil
 os.chdir('Reasoning_human_test')
 !pip install -r requirements.txt
 ```
+### You will need to restart the session/kernel after running above code.
 
 ## Finish the puzzles and download needed files (Run the following code in the first chunk)
 ```
