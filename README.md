@@ -17,7 +17,12 @@ When finished please save and send me the following files:
 Folder: **log_human_test**  
 csv: **human_test.csv**
 
-# If you do not have conda on your device then you need to use Colab
+# If you do not have conda on your device then you need to use binder Recommand： https://mybinder.org
+In the website
+
+
+
+# Or use Colab 
 ## Setup environment (Run the following code in the first chunk)
 ```
 import os
@@ -36,3 +41,5 @@ shutil.make_archive('log_human_test', 'zip', 'log_human_test')
 When finished please download and send me the following files:  
 zip_file: **log_human_test.zip**  
 csv: **human_test.csv**
+
+
