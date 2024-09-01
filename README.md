@@ -30,7 +30,6 @@ os.chdir('Reasoning_human_test')
 ## Finish the puzzles and download needed files (Run the following code in the first chunk)
 ```
 !python human_test.py
-!python human_test.py
 shutil.make_archive('log_human_test', 'zip', 'log_human_test')
 ```
 When finished please download and send me the following files:  
