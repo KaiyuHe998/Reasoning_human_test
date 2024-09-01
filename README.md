@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 python human_test.py
 ```
-When finished please send me the folder $\bf{log_human_test}$ and the csv file $\bf{human_test.csv}$
+When finished please send me the folder $\bf{log\_human\_test}$ and the csv file $\bf{human\_test.csv}$
 
 
 # If you do not have conda on your device then you need to use Colab
