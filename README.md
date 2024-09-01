@@ -13,6 +13,8 @@ pip install -r requirements.txt
 ```
 python human_test.py
 ```
+
+## Step3: Save and send me the files
 When finished please save and send me the following files:  
 Folder: **log_human_test**  
 csv: **human_test.csv**
@@ -25,7 +27,7 @@ csv: **human_test.csv**
 python human_test.py
 ```
 
-## Step2 Zip and download files
+## Step2 Zip/download and send me the files
 Run the following code to zip the log
 ```
   tar -czvf log_human_test.tar.gz log_human_test
