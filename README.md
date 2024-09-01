@@ -10,4 +10,10 @@ chmod +x Anaconda3-2024.06-1-Linux-x86_64.sh //skip this if you already have con
 ./Anaconda3-2024.06-1-Linux-x86_64.sh //skip this if you already have conda
 ```
 
-Run the following code if you are using windows
+download the anaconda installer following link and install the conda
+https://www.anaconda.com/download/success
+
+## Clone repo
+```
+git clone
+```
