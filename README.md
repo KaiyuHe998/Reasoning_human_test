@@ -20,7 +20,7 @@ Folder: **log_human_test**
 csv: **human_test.csv**
 
 
-# If you do not have conda on your device then you need to use github codespace (Recommand): https://github.com/codespaces， https://www.gitpod.io， binder： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD)
+# If you do not have conda on your device then you need to use github codespace (Recommand): https://github.com/codespaces ， binder： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD)
 
 
 ## Step1 Finish puzzles
