@@ -27,7 +27,7 @@ os.chdir('Reasoning_human_test')
 !pip install -r requirements.txt
 ```
 
-## Run the following code in the second chunk and finish the puzzles
+## Finish the puzzles and download needed files (Run the following code in the first chunk)
 ```
 !python human_test.py
 !python human_test.py
