@@ -23,7 +23,7 @@ csv: **human_test.csv**
 import os
 import shutil
 !git clone https://github.com/MeanStudent/Reasoning_human_test.git
-os.chdir(Reasoning_human_test)
+os.chdir('Reasoning_human_test')
 !pip install -r requirements.txt
 ```
 
