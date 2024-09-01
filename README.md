@@ -1,7 +1,3 @@
-# Reasoning_human_test
-- Run the following code to test
-
-
 # If you already have conda on your laptop.
 
 ## Setup environment
