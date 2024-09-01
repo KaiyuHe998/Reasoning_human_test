@@ -18,6 +18,7 @@ Folder: **log_human_test**
 csv: **human_test.csv**
 
 # If you do not have conda on your device then you need to use binder (Recommand)： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD)
+*This may take 5~10 minutes*
 ## Step1 Finish puzzles
 - Click **terminal** in the new window and execute the following code to run the puzzles
 ```
