@@ -43,7 +43,7 @@ Download the following files and send them to me
 - csv_file: **human_test.csv**
 
 
-# Or use Colab 
+# Or use Colab (If all of above is not working)
 ## Setup environment (Run the following code in the first chunk)
 ```
 import os
