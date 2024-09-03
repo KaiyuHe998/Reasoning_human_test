@@ -23,7 +23,7 @@ csv: **human_test.csv**
 # If you do not have conda on your device then you need to use:
 - GitHub codespace (Recommend): https://github.com/codespaces (120 core hour reset every month which is enough for the project)，
 - replit (Recommend): [https://replit.com/](https://replit.com/~) (Free with limited computing power)
-- binder： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD)
+- binder： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD) (Need to wait for a long time and color display is not satisfying)
 
 
 ## Step1 Finish puzzles
