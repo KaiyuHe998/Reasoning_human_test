@@ -21,8 +21,8 @@ csv: **human_test.csv**
 
 
 # If you do not have conda on your device then you need to use:
-- github codespace (Recommand): https://github.com/codespaces (120 core hour reset every month which is enough for the project)，
-- replit (Recommand): https://replit.com/ (Free with limited comput power)
+- GitHub codespace (Recommend): https://github.com/codespaces (120 core hour reset every month which is enough for the project)，
+- replit (Recommend): https://replit.com/ (Free with limited computing power)
 - binder： [https://mybinder.org](https://mybinder.org/v2/gh/MeanStudent/Reasoning_human_test.git/HEAD)
 
 
@@ -43,7 +43,7 @@ Download the following files and send them to me
 - csv_file: **human_test.csv**
 
 
-# Or use Colab (If all of above is not working)
+# Or use Colab (If all of the above is not working)
 ## Setup environment (Run the following code in the first chunk)
 ```
 import os
@@ -52,7 +52,7 @@ import shutil
 os.chdir('Reasoning_human_test')
 !pip install -r requirements.txt
 ```
-### You will need to restart the session/kernel after running above code.
+### You will need to restart the session/kernel after running the above code.
 
 ## Finish the puzzles and download needed files (Run the following code in the first chunk)
 ```
